@@ -1,2 +1,2 @@
 # Cursos-Web
-HTML y CSS
+HTML, CSS y JavaScript
